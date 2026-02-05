@@ -73,19 +73,19 @@ Secondary
 
 # Typography
 
-  Headings
-  Island Moments — Primary brand identity
-  Julius Sans One — Clean secondary heading
+Headings:
+- Island Moments — Primary brand identity
+- Julius Sans One — Clean secondary heading
   
-  Subheadings
-  Island Moments
-  Emblema One — Artistic emphasis
-  Encode Sans — Modern readability
+Subheadings:
+- Island Moments
+- Emblema One — Artistic emphasis
+- Encode Sans — Modern readability
   
-  Body Text
-  Inknut Antiqua — Storytelling and narrative
-  Kadwa — Friendly and approachable
-  Encode Sans Condensed — Clean functional text
+Body Text:
+- Inknut Antiqua — Storytelling and narrative
+- Kadwa — Friendly and approachable
+- Encode Sans Condensed — Clean functional text
 
 # Challenges & Problem Solving
 
