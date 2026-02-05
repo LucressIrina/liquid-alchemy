@@ -1,7 +1,8 @@
 # liquid-alchemy
 ***End-to-end UX/UI design built in Figma, solving usability and navigation issues in cocktail discovery platforms through structured user flows, visual hierarchy, and accessible design.
 
-Link - https://www.figma.com/proto/CeEqE9rvxdjXybM78FO6Jx/Case-Study--Liquid-Alchemy?node-id=1-2&t=9x7nQTHUQYqv3R6z-1 
+Protoype Link - https://www.figma.com/proto/fOhnnWuekvtyvWqYXg4ZSW/Liquid-Alchemy-Website?node-id=22-60&t=otJid66tCieobE6k-1
+Case Study Link - https://www.figma.com/proto/CeEqE9rvxdjXybM78FO6Jx/Case-Study--Liquid-Alchemy?node-id=1-2&t=9x7nQTHUQYqv3R6z-1 
 
 # Project Overview
 Liquid Alchemy is a vibrant UX/UI design project for a cocktail discovery platform created entirely in Figma. The goal was to design an intuitive, visually engaging digital experience that allows users to easily explore, discover, and learn about cocktails regardless of their experience level.
